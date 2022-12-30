@@ -383,6 +383,11 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/2D Platformer/Scripts/CameraController.cs"
+"Assets/2D Platformer/Scripts/EnemyAI.cs"
+"Assets/2D Platformer/Scripts/GameManager.cs"
+"Assets/2D Platformer/Scripts/PlayerController.cs"
+"Assets/2D Platformer/Scripts/PlayerDeathState.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
